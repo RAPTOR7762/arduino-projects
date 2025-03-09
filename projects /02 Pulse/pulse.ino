@@ -1,4 +1,4 @@
-const int led = 11;
+const int led = 9;
 int fadeAmt = 5
 int br; // Brightness of the led
 
